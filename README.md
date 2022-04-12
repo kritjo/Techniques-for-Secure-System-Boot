@@ -1288,4 +1288,3 @@ EFI_STATUS efi_main(EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable)
 
 [^6]: FPFs is one-time programmable storage that should be programmed by
     the OEM making them read-only.
-
